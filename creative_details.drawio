@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36" version="29.3.6">
   <diagram name="第 1 页" id="cWlj6MH_audCdNICGFAB">
-    <mxGraphModel dx="810" dy="1440" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="light-dark(#333333,#1A1A1A)" math="0" shadow="0">
+    <mxGraphModel dx="341" dy="606" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="light-dark(#333333,#1A1A1A)" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -42,6 +42,9 @@
         </mxCell>
         <mxCell id="Wta6M5b_E5IEHcu7Qvye-10" parent="1" style="shape=stencil(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);lineShape=1;strokeColor=light-dark(transparent,#FF3333);" value="" vertex="1">
           <mxGeometry height="19.46516788794481" width="11.904941457381074" x="164.60766667917744" y="158.77428291410916" as="geometry" />
+        </mxCell>
+        <mxCell id="rBb4U19s_HXIfQ3JeSSa-1" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontSize=10;" value="分名种部位：领，袖，衫身（包括吉构&#39;车线等）" vertex="1">
+          <mxGeometry height="30" width="230" x="110" y="290" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
