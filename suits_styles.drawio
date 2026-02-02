@@ -1,0 +1,13 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Linux; Android 13; ANY-AN00 Build/HONORANY-AN00) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.88 Mobile Safari/537.36" version="29.3.6">
+  <diagram id="HMYnNcd00sIDUG367k00" name="第 1 页">
+    <mxGraphModel dx="314" dy="344" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#333333" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="rKBI4xU-xWiTv4jbW5Fw-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeColor=light-dark(#7EA6E0,#7EA6E0);dashed=1;dashPattern=1 1;fontSize=30;fontColor=light-dark(#F4F4F4,#1B1B1B);" value="不同风格的西装" vertex="1">
+          <mxGeometry height="61" width="255" x="301" y="23" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
