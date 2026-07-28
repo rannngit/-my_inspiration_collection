@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="第 1 页" id="Qk9xPZbmikaFkCOsDFo7">
-    <mxGraphModel dx="523" dy="666" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="0" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="light-dark(#FFFFFF,#1A1A1A)" math="0" shadow="0">
+    <mxGraphModel dx="1331" dy="1695" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="0" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="light-dark(#FFFFFF,#1A1A1A)" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -10,14 +10,11 @@
         <mxCell id="I2QTyTvXNzKnc_kjoYJV-2" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=20;" value="灵感库(收集任何触动你的视觉元素)" vertex="1">
           <mxGeometry height="30" width="330" x="280" y="40" as="geometry" />
         </mxCell>
-        <mxCell id="I2QTyTvXNzKnc_kjoYJV-3" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;" value="">
-          <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="240" y="300" as="sourcePoint" />
-            <mxPoint x="460" y="240" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="I2QTyTvXNzKnc_kjoYJV-4" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;labelBackgroundColor=none;fontColor=light-dark(#000000,#CCCCCC);" value="🎯第一印象/触动点；&lt;div&gt;🧠联想：&lt;/div&gt;&lt;div&gt;🧩具体细节：&lt;/div&gt;" vertex="1">
+          <mxGeometry height="70" width="160" x="70" y="70" as="geometry" />
         </mxCell>
-        <mxCell id="I2QTyTvXNzKnc_kjoYJV-4" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="🎯第一印象/触动点；&lt;div&gt;🧠联想：&lt;/div&gt;&lt;div&gt;🧩具体细节：&lt;/div&gt;" vertex="1">
-          <mxGeometry height="90" width="160" x="490" y="110" as="geometry" />
+        <mxCell id="I2QTyTvXNzKnc_kjoYJV-5" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontColor=light-dark(#000000,#CCCCCC);fontFamily=Helvetica;fontStyle=0;textShadow=0;labelBackgroundColor=none;labelBorderColor=none;horizontal=1;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" value="🎯第一印象/触动点：简洁/现代&lt;div&gt;🧠联想：可用于T恤印花设计&lt;/div&gt;&lt;div&gt;🧩具体细节：英文字体&amp;amp;排列&lt;/div&gt;" vertex="1">
+          <mxGeometry height="70" width="180" x="50" y="400" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
