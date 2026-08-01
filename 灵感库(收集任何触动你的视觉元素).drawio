@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="第 1 页" id="Qk9xPZbmikaFkCOsDFo7">
-    <mxGraphModel dx="298" dy="168" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="light-dark(#FFFFFF,#333333)" math="0" shadow="0">
+    <mxGraphModel dx="731" dy="602" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="light-dark(#FFFFFF,#333333)" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -10,7 +10,7 @@
         <mxCell id="I2QTyTvXNzKnc_kjoYJV-2" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=25;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" value="灵感库(收集任何触动你的视觉元素)" vertex="1">
           <mxGeometry height="30" width="410" x="250" y="40" as="geometry" />
         </mxCell>
-        <mxCell id="I2QTyTvXNzKnc_kjoYJV-4" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;labelBackgroundColor=none;fontColor=light-dark(#000000,#CCCCCC);" value="🎯第一印象/触动点；&lt;div&gt;🧠联想：&lt;/div&gt;&lt;div&gt;🧩具体细节：&lt;/div&gt;" vertex="1">
+        <mxCell id="I2QTyTvXNzKnc_kjoYJV-4" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;labelBackgroundColor=none;fontColor=light-dark(#000000,#FFFFFF);" value="🎯第一印象/触动点；&lt;div&gt;🧠联想：&lt;/div&gt;&lt;div&gt;🧩具体细节：&lt;/div&gt;" vertex="1">
           <mxGeometry height="70" width="160" x="70" y="80" as="geometry" />
         </mxCell>
         <mxCell id="I2QTyTvXNzKnc_kjoYJV-5" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontColor=light-dark(#000000,#CCCCCC);fontFamily=Helvetica;fontStyle=0;textShadow=0;labelBackgroundColor=none;labelBorderColor=none;horizontal=1;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" value="🎯第一印象/触动点：简洁/现代&lt;div&gt;🧠联想：可用于T恤印花设计&lt;/div&gt;&lt;div&gt;🧩具体细节：英文字体&amp;amp;排列&lt;/div&gt;" vertex="1">
