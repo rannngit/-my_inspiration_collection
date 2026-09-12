@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="第 1 页" id="Qk9xPZbmikaFkCOsDFo7">
-    <mxGraphModel dx="740" dy="458" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="light-dark(#FFFFFF,#333333)" math="0" shadow="0">
+    <mxGraphModel dx="2643" dy="1634" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="light-dark(#FFFFFF,#333333)" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -106,9 +106,6 @@
             <mxPoint x="386" y="85" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="bsxEeLD8N9DuzOOawY0T-1" parent="1" style="shape=image;imageAspect=0;aspect=fixed;verticalLabelPosition=bottom;verticalAlign=top;image=https://images.pexels.com/photos/30293061/pexels-photo-30293061.jpeg;" value="" vertex="1">
-          <mxGeometry height="333" width="499.02" x="82" y="1036" as="geometry" />
-        </mxCell>
         <mxCell id="bsxEeLD8N9DuzOOawY0T-2" connectable="0" parent="1" style="group" value="" vertex="1">
           <mxGeometry height="300" width="230" x="53" y="267" as="geometry" />
         </mxCell>
@@ -151,9 +148,6 @@
         <mxCell id="EC_SbUS4HEJ4dlSjO-pX-6" parent="bsxEeLD8N9DuzOOawY0T-3" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontSize=10;" value="墨绿与草绿同色系" vertex="1">
           <mxGeometry height="28" width="49" x="207" y="97" as="geometry" />
         </mxCell>
-        <mxCell id="bsxEeLD8N9DuzOOawY0T-4" parent="1" style="shape=gitTag;tabSize=8;tabInset=4;holeSize=1;whiteSpace=wrap;html=1;" value="版面设计借鉴" vertex="1">
-          <mxGeometry height="20" width="94" x="1270" y="125" as="geometry" />
-        </mxCell>
         <mxCell id="bsxEeLD8N9DuzOOawY0T-5" connectable="0" parent="1" style="group" value="" vertex="1">
           <mxGeometry height="305" width="265.8600000000001" x="791" y="248" as="geometry" />
         </mxCell>
@@ -183,17 +177,32 @@
             <mxPoint x="351.8600000000001" y="66" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="bsxEeLD8N9DuzOOawY0T-6" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#1BA1E2,#626B76);fontColor=#ffffff;strokeColor=none;" value="" vertex="1">
-          <mxGeometry height="43" width="86" x="635" y="1081" as="geometry" />
+        <mxCell id="bsxEeLD8N9DuzOOawY0T-11" parent="1" style="shape=gitTag;tabSize=8;tabInset=4;holeSize=1;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#FF00FF);fontSize=20;" value="配色灵感" vertex="1">
+          <mxGeometry height="30" width="128" x="482" y="929" as="geometry" />
         </mxCell>
-        <mxCell id="bsxEeLD8N9DuzOOawY0T-7" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#1BA1E2,#5B5657);fontColor=#ffffff;strokeColor=none;" value="" vertex="1">
-          <mxGeometry height="43" width="86" x="635" y="1136" as="geometry" />
+        <mxCell id="bsxEeLD8N9DuzOOawY0T-14" connectable="0" parent="1" style="group" value="" vertex="1">
+          <mxGeometry height="333" width="786" x="54" y="1023" as="geometry" />
         </mxCell>
-        <mxCell id="bsxEeLD8N9DuzOOawY0T-8" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#1BA1E2,#978303);fontColor=#ffffff;strokeColor=none;" value="" vertex="1">
-          <mxGeometry height="43" width="86" x="635" y="1195" as="geometry" />
+        <mxCell id="bsxEeLD8N9DuzOOawY0T-1" parent="bsxEeLD8N9DuzOOawY0T-14" style="shape=image;imageAspect=0;aspect=fixed;verticalLabelPosition=bottom;verticalAlign=top;image=https://images.pexels.com/photos/30293061/pexels-photo-30293061.jpeg;" value="" vertex="1">
+          <mxGeometry height="333" width="499.02" as="geometry" />
         </mxCell>
-        <mxCell id="bsxEeLD8N9DuzOOawY0T-9" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#1BA1E2,#937703);fontColor=#ffffff;strokeColor=none;" value="" vertex="1">
-          <mxGeometry height="43" width="86" x="635" y="1258" as="geometry" />
+        <mxCell id="bsxEeLD8N9DuzOOawY0T-6" parent="bsxEeLD8N9DuzOOawY0T-14" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#1BA1E2,#626B76);fontColor=#ffffff;strokeColor=none;" value="" vertex="1">
+          <mxGeometry height="219" width="86" x="523" as="geometry" />
+        </mxCell>
+        <mxCell id="bsxEeLD8N9DuzOOawY0T-7" parent="bsxEeLD8N9DuzOOawY0T-14" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#1BA1E2,#5B5657);fontColor=#ffffff;strokeColor=none;" value="" vertex="1">
+          <mxGeometry height="30" width="86" x="523" y="228" as="geometry" />
+        </mxCell>
+        <mxCell id="bsxEeLD8N9DuzOOawY0T-8" parent="bsxEeLD8N9DuzOOawY0T-14" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#1BA1E2,#978303);fontColor=#ffffff;strokeColor=none;" value="" vertex="1">
+          <mxGeometry height="30" width="86" x="523" y="266" as="geometry" />
+        </mxCell>
+        <mxCell id="bsxEeLD8N9DuzOOawY0T-9" parent="bsxEeLD8N9DuzOOawY0T-14" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#1BA1E2,#937703);fontColor=#ffffff;strokeColor=none;" value="" vertex="1">
+          <mxGeometry height="30" width="86" x="523" y="303" as="geometry" />
+        </mxCell>
+        <mxCell id="bsxEeLD8N9DuzOOawY0T-10" parent="bsxEeLD8N9DuzOOawY0T-14" style="shape=gitTag;tabSize=8;tabInset=4;holeSize=1;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#FF00FF);fontSize=20;" value="配色灵感" vertex="1">
+          <mxGeometry height="30" width="128" x="626" y="9" as="geometry" />
+        </mxCell>
+        <mxCell id="bsxEeLD8N9DuzOOawY0T-12" parent="bsxEeLD8N9DuzOOawY0T-14" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;labelBackgroundColor=none;fontColor=light-dark(#000000,#FFFFFF);" value="🎯第一印象/触动点：&lt;div&gt;大面积灰色中的抢眼亮黄色。&lt;div&gt;🧠联想：&lt;/div&gt;&lt;div&gt;搭配：灰调着装+黄色围巾&lt;/div&gt;&lt;div&gt;款式：—&lt;/div&gt;&lt;div&gt;🧩具体细节：—&lt;/div&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="99" width="160" x="626" y="59" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
