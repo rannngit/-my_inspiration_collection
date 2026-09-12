@@ -1,11 +1,11 @@
 <mxfile host="app.diagrams.net">
   <diagram name="第 1 页" id="Qk9xPZbmikaFkCOsDFo7">
-    <mxGraphModel dx="3083" dy="3016" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="light-dark(#FFFFFF,#333333)" math="0" shadow="0">
+    <mxGraphModel dx="9250" dy="6709" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="light-dark(#FFFFFF,#333333)" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="I2QTyTvXNzKnc_kjoYJV-2" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=39;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;labelBackgroundColor=light-dark(#FFFFFF,#67AB9F);labelBorderColor=none;" value="灵感库&lt;div&gt;(收集任何触动你的视觉元素)&lt;/div&gt;" vertex="1">
-          <mxGeometry height="111" width="524" x="608.74" y="-1096" as="geometry" />
+        <mxCell id="I2QTyTvXNzKnc_kjoYJV-2" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=44;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;labelBackgroundColor=light-dark(#FFFFFF,#67AB9F);labelBorderColor=none;" value="灵感库&lt;div&gt;(收集任何触动你的视觉元素)&lt;/div&gt;" vertex="1">
+          <mxGeometry height="138" width="568.6" x="570" y="-1127" as="geometry" />
         </mxCell>
         <mxCell id="I2QTyTvXNzKnc_kjoYJV-4" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;labelBackgroundColor=none;fontColor=light-dark(#000000,#FFFFFF);" value="🎯第一印象/触动点：&lt;div&gt;🧠联想：&lt;/div&gt;&lt;div&gt;🧩具体细节：&lt;/div&gt;" vertex="1">
           <mxGeometry height="70" width="160" x="182.74" y="-1055" as="geometry" />
@@ -202,7 +202,7 @@
           <mxGeometry height="99" width="160" x="626" y="59" as="geometry" />
         </mxCell>
         <mxCell id="bsxEeLD8N9DuzOOawY0T-18" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=30;" value="用经典主题" vertex="1">
-          <mxGeometry height="30" width="160" x="1278.74" y="-1096" as="geometry" />
+          <mxGeometry height="30" width="160" x="1201" y="-1045" as="geometry" />
         </mxCell>
         <mxCell id="bsxEeLD8N9DuzOOawY0T-19" parent="1" style="shape=image;imageAspect=0;aspect=fixed;verticalLabelPosition=bottom;verticalAlign=top;image=https://images.pexels.com/photos/17147716/pexels-photo-17147716.jpeg;" value="" vertex="1">
           <mxGeometry height="495.15" width="279" x="972" y="1429" as="geometry" />
