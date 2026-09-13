@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="第 1 页" id="Qk9xPZbmikaFkCOsDFo7">
-    <mxGraphModel dx="2056" dy="2400" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="light-dark(#FFFFFF,#333333)" math="0" shadow="0">
+    <mxGraphModel dx="1850" dy="2277" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="light-dark(#FFFFFF,#333333)" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -195,7 +195,7 @@
         <mxCell id="bsxEeLD8N9DuzOOawY0T-9" parent="bsxEeLD8N9DuzOOawY0T-14" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#1BA1E2,#937703);fontColor=#ffffff;strokeColor=none;" value="" vertex="1">
           <mxGeometry height="30" width="86" x="523" y="303" as="geometry" />
         </mxCell>
-        <mxCell id="bsxEeLD8N9DuzOOawY0T-10" parent="bsxEeLD8N9DuzOOawY0T-14" style="shape=gitTag;tabSize=8;tabInset=4;holeSize=1;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#FF00FF);fontSize=20;" value="配色灵感" vertex="1">
+        <mxCell id="bsxEeLD8N9DuzOOawY0T-10" parent="bsxEeLD8N9DuzOOawY0T-14" style="shape=gitTag;tabSize=8;tabInset=4;holeSize=1;whiteSpace=wrap;html=1;fillColor=none;fontSize=20;strokeWidth=2;" value="配色灵感" vertex="1">
           <mxGeometry height="30" width="128" x="626" y="9" as="geometry" />
         </mxCell>
         <mxCell id="bsxEeLD8N9DuzOOawY0T-12" parent="bsxEeLD8N9DuzOOawY0T-14" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;labelBackgroundColor=none;fontColor=light-dark(#000000,#FFFFFF);" value="🎯第一印象/触动点：&lt;div&gt;大面积灰色中的抢眼亮黄色。&lt;div&gt;🧠联想：&lt;/div&gt;&lt;div&gt;搭配：灰调着装+黄色围巾&lt;/div&gt;&lt;div&gt;款式：—&lt;/div&gt;&lt;div&gt;🧩具体细节：—&lt;/div&gt;&lt;/div&gt;" vertex="1">
@@ -210,7 +210,7 @@
         <mxCell id="bsxEeLD8N9DuzOOawY0T-16" parent="bsxEeLD8N9DuzOOawY0T-34" style="shape=image;imageAspect=0;aspect=fixed;verticalLabelPosition=bottom;verticalAlign=top;image=https://images.pexels.com/photos/34127425/pexels-photo-34127425.jpeg;" value="" vertex="1">
           <mxGeometry height="352.61" width="257" as="geometry" />
         </mxCell>
-        <mxCell id="bsxEeLD8N9DuzOOawY0T-24" parent="bsxEeLD8N9DuzOOawY0T-34" style="shape=gitTag;tabSize=8;tabInset=4;holeSize=1;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#FF00FF);fontSize=20;" value="配色灵感" vertex="1">
+        <mxCell id="bsxEeLD8N9DuzOOawY0T-24" parent="bsxEeLD8N9DuzOOawY0T-34" style="shape=gitTag;tabSize=8;tabInset=4;holeSize=1;whiteSpace=wrap;html=1;fillColor=none;fontSize=20;strokeWidth=2;" value="配色灵感" vertex="1">
           <mxGeometry height="30" width="128" x="263" y="17" as="geometry" />
         </mxCell>
         <mxCell id="bsxEeLD8N9DuzOOawY0T-26" parent="bsxEeLD8N9DuzOOawY0T-34" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;fillColor=light-dark(#FFFFFF,#927316);" value="" vertex="1">
@@ -240,7 +240,7 @@
         <mxCell id="bsxEeLD8N9DuzOOawY0T-111" connectable="0" parent="1" style="group" value="" vertex="1">
           <mxGeometry height="347" width="778" x="57" y="923" as="geometry" />
         </mxCell>
-        <mxCell id="bsxEeLD8N9DuzOOawY0T-11" parent="bsxEeLD8N9DuzOOawY0T-111" style="shape=gitTag;tabSize=8;tabInset=4;holeSize=1;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#FF00FF);fontSize=20;" value="配色灵感" vertex="1">
+        <mxCell id="bsxEeLD8N9DuzOOawY0T-11" parent="bsxEeLD8N9DuzOOawY0T-111" style="shape=gitTag;tabSize=8;tabInset=4;holeSize=1;whiteSpace=wrap;html=1;fillColor=none;fontSize=20;strokeWidth=2;" value="配色灵感" vertex="1">
           <mxGeometry height="30" width="128" x="526" y="27" as="geometry" />
         </mxCell>
         <mxCell id="bsxEeLD8N9DuzOOawY0T-22" parent="bsxEeLD8N9DuzOOawY0T-111" style="shape=image;imageAspect=0;aspect=fixed;verticalLabelPosition=bottom;verticalAlign=top;image=https://images.pexels.com/photos/674478/pexels-photo-674478.jpeg;" value="" vertex="1">
@@ -327,7 +327,7 @@
         <mxCell id="bsxEeLD8N9DuzOOawY0T-52" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=20;" value="阴影" vertex="1">
           <mxGeometry height="30" width="60" x="532" y="652.99" as="geometry" />
         </mxCell>
-        <mxCell id="bsxEeLD8N9DuzOOawY0T-53" parent="1" style="shape=gitTag;tabSize=8;tabInset=4;holeSize=1;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#FF00FF);fontSize=20;" value="配色灵感" vertex="1">
+        <mxCell id="bsxEeLD8N9DuzOOawY0T-53" parent="1" style="shape=gitTag;tabSize=8;tabInset=4;holeSize=1;whiteSpace=wrap;html=1;fillColor=none;fontSize=20;strokeWidth=2;" value="配色灵感" vertex="1">
           <mxGeometry height="30" width="128" x="396" y="287.99" as="geometry" />
         </mxCell>
         <mxCell id="bsxEeLD8N9DuzOOawY0T-131" parent="1" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;fillColor=light-dark(#FFFFFF,#EFD3BD);" value="" vertex="1">
